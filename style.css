@@ -78,7 +78,7 @@ nav ul li {
 }
 
 nav ul li a:hover {
-	color: white;
+	color: grey;
 }
 nav ul li:hover .menuc2 {
 	display: block;
